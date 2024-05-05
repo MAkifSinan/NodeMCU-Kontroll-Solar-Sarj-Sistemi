@@ -1,0 +1,15 @@
+{
+  "name": "battery_charging_management_sys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Battery_Charging_Management_Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
